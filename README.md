@@ -16,3 +16,10 @@ We'll need an understanding of topology on an undergrad level atleast to follow 
 # Mathematical Framework
 - Hodge Laplacians: Higher-order differential operators that generalize graph Laplacians to capture flows and relationships on simplicial complexes 
 - Word Manifolds: Topological representations of text where co-occurrence patterns define geometric structure
+
+# Technical Architecture
+
+- Data Layer: Raw text processing, preprocessing, and tokenization that prepares text for topological analysis 
+- Topology Layer: Construction of word manifolds, simplicial complexes, and computation of topological invariants 
+- Deep Learning Layer: Topology-enhanced neural architectures including transformers with Hodge attention and simplicial positional encoding 
+- Application Layer: Downstream tasks like classification, sentiment analysis, and language modeling enhanced with topological features
