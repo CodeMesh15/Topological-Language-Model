@@ -14,3 +14,5 @@ We'll need an understanding of topology on an undergrad level atleast to follow 
 - Higher-Order Relations: Language involves complex multi-way interactions that go beyond simple pairwise relationships, requiring tools from algebraic topology to         properly capture
 
 # Mathematical Framework
+- Hodge Laplacians: Higher-order differential operators that generalize graph Laplacians to capture flows and relationships on simplicial complexes 
+- Word Manifolds: Topological representations of text where co-occurrence patterns define geometric structure
