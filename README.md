@@ -1,3 +1,3 @@
 # Topological-Language-Model
 ![image](https://github.com/user-attachments/assets/287f555f-8a1a-447e-b874-5f11f356f493)
-Topological Language Models (TopoLMs) - a new class of neural architectures that leverage topological concepts to capture the intrinsic geometric structure of language data that traditional methods systematically miss 
+Topological Language Models (TopoLMs) - a new class of neural architectures that leverage topological concepts to capture the intrinsic geometric structure of language data that traditional methods systematically miss. The core innovation lies in treating text not as mere sequences or bags of words, but as complex topological spaces where words form manifolds, relationships exhibit higher-order structure, and linguistic patterns persist across multiple scales. This approach enables the extraction of stable topological features that provide deeper insights into semantic structure, grammatical relationships, and discourse patterns
